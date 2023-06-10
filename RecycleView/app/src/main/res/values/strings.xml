@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string name="character_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string name="menu_profile">Profile</string>
+
+    <string-array name="data_name">
+        <item>Deidara</item>
+        <item>Hidan</item>
+        <item>Itachi</item>
+        <item>Kakuzu</item>
+        <item>Kisame</item>
+        <item>Konan</item>
+        <item>Obito</item>
+        <item>Pain</item>
+        <item>Sasori</item>
+        <item>Zetsu</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Deidara adalah Ninja Pelarian dari Iwagakure. Selama waktunya di desa, ia adalah anggota Korps Ledakan. Setelah lari dari desa, ia bergabung dengan Akatsuki dan merupakan salah satu anggotanya termuda.</item>
+        <item>Hidan adalah ninja Tingkat-S atau Ninja Pengejaran yang berkhianat dari Yugakure dan bergabung Akatsuki. Di sana, ia berpasangan dengan Kakuzu.</item>
+        <item>Itachi Uchiha adalah seorang anak ajaib klan Uchiha dari Konohagakure. Ia menjadi seorang penjahat internasional setelah membunuh seluruh klan, dan hanya menyelamatkan adiknya, Sasuke. Dia kemudian bergabung dengan organisasi kriminal internasional yang dikenal sebagai Akatsuki.</item>
+        <item>Kakuzu dulunya adalah shinobi Tingkat-S dan Ninja Pelarian dari Takigakure serta anggota Akatsuki yang berpasangan dengan Hidan. </item>
+        <item>Kisame Hoshigaki merupakan seorang ninja pelarian dari Kirigakure dan partnernya Itachi. Kisame memiliki penampilan khusus yang menyerupai ikan hiu.</item>
+        <item>Konan merupakan satu-satunya anggota perempuan dalam organisasi Akatsuki Beliau memiliki rambut berwarna biru dengan tambahan aksesoris bunga kertas.</item>
+        <item>Obito alias dari Tobi, atau Madara Uchiha. Selama bertahun-tahun, Obito memanipulasi Akatsuki dari bayang-bayang untuk memenuhi ambisinya</item>
+        <item>Pain merupakan Ketua Akatsuki. nama aslinya merupakan Nagato. Tak berada satupun anggota Akatsuki, selain Konan yang memanggilnya dengan namanya tetapi hanya menggunakan kata "pemimpin" saja, dan wajahnya sangatlah jarang diperlihatkan.</item>
+        <item>Sasori juga dikenal untuk Sasori si pasir merah merupakan seorang ninja pelarian yang berasal dari Sunagakure.</item>
+        <item>Zetsu merupakan seorang ninja pelarian misterius. Tidak banyak yang diketahui tentang dia.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/asd</item>
+        <item>@drawable/asd</item>
+        <item>@drawable/asd</item>
+        <item>@drawable/asd</item>
+        <item>@drawable/asd</item>
+        <item>@drawable/asd</item>
+        <item>@drawable/asd</item>
+        <item>@drawable/asd</item>
+        <item>@drawable/asd</item>
+        <item>@drawable/asd</item>
+
+    </integer-array>
+
+    <string-array name="detail_description">
+        <item>Kemampuan Deidara adalah seorang murid di bawah Tsuchikage Ketiga: Ōnoki. Ia memiliki kekkei genkai elemen ledakan yang memungkinkan dia untuk menjadi anggota Korps Ledakan.Meskipun sangat memuji keindahan tanah liatnya, keinginan Deidara untuk mencapai ketinggian yang lebih dalam seni, mengakibatkan dia mencuri sebuah kinjutsu yang memungkinkan seseorang untuk menguleni chakra mereka menjadi zat. Menggunakan tanah liat peledak, Deidara menemukan seni yang ia inginkan Seni dalam waktu singkat Dalam anime, Deidara meninggalkan Iwagakure berantakan dengan meledakkan beberapa bangunan di desa.Sejak itu, Deidara menjadi ninja pelarian dan menawarkan jasanya sebagai pengebom kepada pemberontak di berbagai negara hingga bergabung ke Akatsuki</item>
+        <item>kemampuan Hidan yaitu tidak bisa mati dari hampir semua penyebab, dengan pengecualian kekurangan nutrisi. Keabadian menyebabkan dia bertahan dari banyak luka fatal dan hampir dalam bentuk potongan, dia bahkan masih bisa berbicara setelah kepalanya terpenggal. Akan tetapi, kepalanya harus dihubungkan ke tubuhnya supaya dia bisa mengendalikannya, yang memerlukan Kakuzu untuk menyambungkannya dan bagian tubuh yang lain jika diperlukan.</item>
+        <item>Kemampuan Itachi sering dipuji karena kehebatannya dalam menggunakan genjutsu, ia sendiri dapat menjebak lawannya dalam genjutsu hanya dengan menatap mata atau menunjuk lawannya. Itachi juga bisa membalikkan genjutsu lawan dengan Magen: Kyo-tenchi Ten. Menurut Ao, Itachi juga dapat menggunakan genjutsu untuk mengendalikan orang lain dari jarak jauh. Sebagian besar kekuatan genjutsu Itachi berasal dari Sharingan, dan jurus tersebut dapat menyebabkan trauma mental yang kuat pada lawannya.</item>
+        <item>kemampuan Kakuzu dapat berputar di sekitar sifat khusus dari struktur tubuhnya, yang terdiri dari ratusan sulur abu-abu tebal yang dijalin di seluruh dagingnya yang disebut Earth Grudge Fear , menyatukan tubuhnya seperti jahitan boneka kain. Tampaknya melalui ini, itu memungkinkan Kakuzu untuk mempertahankan kekuatan, kesehatan, dan penampilan mudanya meskipun usianya sudah lanjut. Ini juga memungkinkan dia memisahkan bagian tubuhnya sesuka hati, melakukan serangan fisik jarak menengah hingga jauh, dan menjahit hampir semua cedera yang dideritanya.</item>
+        <item>Kemampuan Kisame memiliki kekuatan dan kecepatan fisik yang sama besarnya, menggabungkan serangan taijutsu yang kuat dengan tebasan kuat dari Samehada. Kisame dapat menyembuhkan luka dan memulihkan chakranya dengan menggabungkan sementara dengan Samehada. Dia juga bisa menyatu sepenuhnya untuk lebih meningkatkan kekuatannya, mengembangkan penampilannya yang seperti hiu. Saat menyatu dengan Samehada, ia memperoleh kemampuan untuk bernapas di bawah air menggunakan insang yang terbentuk di lehernya. Saat menggunakan Teknik Tari Hiu Penjara Air , dia bisa memanfaatkan sepenuhnya kemampuan itu dengan menenggelamkan lawannya sambil tetap tidak terluka.</item>
+        <item>Kemampuan dengan gaya bertarungnya yang mengarah ke penciptaan Tarian Shikigami. Teknik ini mengubah seluruh tubuh dan pakaiannya menjadi beberapa lembar kertas yang bisa dia kontrol, bentuk, dan ubah warna sesuka hati. Dia bisa membuat kupu-kupu untuk mengumpulkan informasi atau melakukan perjalanan jarak jauh. [14] Dia bisa mengeraskan kertasnya dengan chakra untuk membuat senjata seperti tombak.</item>
+        <item>Kemampuan Obito, Mokuton/Elemen Kayu diperoleh karena tubuh sebelah kanannya oleh Madara yang mentransplantasikan sel hashirama sehingga pada saat ia melawan banyak ninja kirigakure, Obito dapat menghabisi semua ninja tersebut menggunakan Mokuton. Kemapuan lain yang dimilikinya seperti Kamui/jikukan ninjutsu [jutsu menembus ruang dan waktu] yaitu kemempuan gabungan antara Mangekyou Sharingan Dan Sel Hashirama yang di tanamkan madara. Dari mata rinnegannya yang diambil dari Nagato dia mempunyai kemempuan jutsu Hampir mirip seperti Pain</item>
+        <item>Kemampuan menciptakan jutsu kepada mengeluarkan monster berekor (Bijuu) dari Jinchuuriki. Ia juga mampu menggunakan "teknik pengubah bentuk" yang dapat menduplikasikan rekan-rekannya dengan menggunakan korban manusia, menjadikan mereka dapat melawan musuh tanpa melukai dirinya. Hasil duplikasi ini sangatlah mirip dengan aslinya, bahkan mampu memiliki kekkei genkai dan senjata khusus seperti yang asli. Kemampuannya seimbang dengan jumlah chakra yang diberikan kepada masing-masing hasil duplikasi ini.</item>
+        <item>Kemampuan dalam pertarungan, Sasori menggunakan boneka-boneka, di mana favoritnya merupakan Hiruko, yang dikendalikan dari dalam kepada melindungi dirinya dari serangan musuh. Karena Sasori sering menggunakan Hiruko, bahkan menghiasinya dengan pakaian Akatsuki, biasanya orang hanya dapat menerimanya selama ia menggunakan boneka itu. Bila Hiruko terbukti tidak berarti lagi, Sasori dapat menggunakan dirinya sendiri dalam pertempuran, disebabkan tubuhnya sudah diubah dijadikan boneka.</item>
+        <item>Kemampuan menciptakannya mampu bersatu dengan tanah, pohon, dan tumbuhan yang lain kepada perjalanan jarak jauh dengan cepat.[4] Ia juga memiliki kemampuan yang dapat menggerakan tubuhnya selama ritual penyegelan Bijuu berlangsung, di mana tidak berada seorang pun anggota Akatsuki yang dapat melaksanakannya. Dengan begitu, ia mampu dijadikan pengintai selama ritual penyegelan. Kepada memudahkan tugas ini, Zetsu meningkatkan daya penglihatannya kepada melihat jauh, dibandingkan dengan biasanya orang.</item>
+    </string-array>
+
+</resources>
