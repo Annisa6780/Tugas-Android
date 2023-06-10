@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/notif"
+        android:title="Pemberitahuan"
+        android:icon="@drawable/notif"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/edu"
+        android:title="Education"
+        android:icon="@drawable/edu"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/phone"
+        android:title="Profile"
+        android:icon="@drawable/phone"
+        app:showAsAction="never"/>
+</menu>
